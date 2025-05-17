@@ -90,4 +90,3 @@ This project is licensed under the MIT License
 
 - Based on the course project from London App Developer
 - Django REST Framework documentation
-```
