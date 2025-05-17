@@ -1,6 +1,6 @@
 # Profiles REST API
 
-A fully functioning REST API that handles user profile creation and management, built with Python, Django, and Django REST Framework. This project implements token-based authentication, user profile management, and feed API functionality.
+A REST API that handles user profile creation and management, built with Python, Django, and Django REST Framework. This project implements token-based authentication, user profile management, and feed API functionality.
 
 ## Features
 
